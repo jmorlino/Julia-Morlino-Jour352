@@ -2,3 +2,41 @@
   width:900px;
   margin: 0 auto;
 }
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+
+figcaption {
+  font-size: 12px;
+  color: #585858
+}
+
+.links {
+  font-weight: 600;
+}
+
+blockquote {
+  font: 16px/24px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: maroon;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+  font-weight: 600;
+}
