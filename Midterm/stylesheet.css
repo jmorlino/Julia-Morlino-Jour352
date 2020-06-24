@@ -15,6 +15,13 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 0px;
+}
+
 #byline {
   font-family: Helvetica, sans-serif;
   font-size: 14px;
@@ -26,7 +33,30 @@ p {
   font-size: 12px;
 }
 
+/* image captions */
 figcaption {
   font-size: 12px;
   color: #585858;
+}
+
+.links {
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+.list {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+blockquote {
+  font: 18px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: orange;
+  margin-left: 100px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+  font-weight: 600;
 }
