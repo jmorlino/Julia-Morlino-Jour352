@@ -1,0 +1,51 @@
+.headline {
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+.byline {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Georgia, serif;
+  line-height: 180%;
+}
+
+.chapter-headline {
+  font-size: 2em;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+.hamilton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  color: gray;
+}
+
+.row {
+  font-family: Georgia, serif;
+}
+
+.card-footer {
+  width: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
