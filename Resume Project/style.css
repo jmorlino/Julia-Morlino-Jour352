@@ -10,59 +10,42 @@ BODY {
   width: 100%;
 }
 
-/* banner name at top */
-#name {
-  font-size:3em;
+.profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 50%;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+}
+
+.sectionheader {
+  font-size:2em;
   text-transform:uppercase;
   text-align:center;
-  color:#33485e;
-  border-bottom: 1px solid #33485e;
+  color:black;
+  border-bottom: 2px solid black;
   width:60%;
   min-width:300px;
   margin:0 auto;
+  font-weight: 600;
 }
 
-/* my title */
-#title {
-  color:#33485e;
-  text-transform:uppercase;
-  font-size:1.5em;
-  font-weight:600;
-  text-align:center;
-  margin-top:20px;
-  margin-bottom:0px;
-  margin-right:0px;
-  margin-left:0px;
-}
-
-/* job experience section title */
-.sectionheader {
-  font-size:1.5em;
-  text-transform:uppercase;
-  background-color:#33485e;
-  color:#fff;
-  font-weight:400;
-  margin-top:20px;
-  margin-bottom:10px;
-  margin-right:0;
-  margin-left:0;
-  width:70%;
-  min-width:300px;
-}
-
-/* job title */
 .jobtitle {
   font-size:1.5em;
   font-weight:600;
+  color: black;
 }
 
-/* job organization */
 .organization {
   font-size:1.25em;
   font-weight:400;
+  color: maroon;
 }
 
-/* job dates */
 .date {
   font-style:italic;
   font-size:1em;
@@ -90,28 +73,11 @@ BODY {
   display: inline;
 }
 
-#degrees {
-  margin-top:5px;
-  margin-bottom:0px;
-  margin-right:0px;
-  margin-left:0px;
-}
-
 #do {
   margin-top:5px;
   margin-bottom:0px;
   margin=right:0px;
   margin-left:0px;
-}
-
-/* education and skills lists */
-ul {
-  font-size:1em;
-}
-
-.top {
-  width:60%;
-  min-width:300px;
-  margin:0 auto;
-  margin-bottom:30px;
+  list-style-position: center;
+  text-align: center;
 }

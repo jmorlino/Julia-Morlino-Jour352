@@ -1,0 +1,39 @@
+.navbar-fixed-left {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #BEF7C5;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.nav-link {
+  color: black;
+  font-weight: 600;
+}
+
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
+
+h1 {
+  font-size: 1.3em;
+  color: black;
+  font-weight: 600;
+  font-family: 'Open Sans', arial, sans-serif;
+}
+
+span {
+  color: maroon;
+}
+
+.jumbotron {
+  width: 100%;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 1em;
+}
