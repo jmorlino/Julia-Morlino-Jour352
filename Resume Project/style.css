@@ -10,22 +10,6 @@ BODY {
   width: 100%;
 }
 
-.navbar-fixed-left {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  border-radius: 0;
-}
-
-.navbar-custom {
-  background-color: #99ff9c;"
-}
-
-.main {
-  margin-left: 160px; /* Same as the width of the sidebar */
-  padding: 0px 10px;
-}
-
 /* banner name at top */
 #name {
   font-size:3em;
