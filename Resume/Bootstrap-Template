@@ -19,7 +19,7 @@
 
 
   <!--Start Bootstrap Nav-->
-  <nav class="navbar bg-light">
+  <nav class="navbar bg-light" style="background-color: #fc9dff;">
 
     <!-- Links -->
     <ul class="navbar-nav">
