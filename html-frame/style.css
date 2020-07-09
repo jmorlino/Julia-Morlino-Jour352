@@ -1,8 +1,19 @@
+.nav-logo {
+  color: white;
+  margin: 0 auto;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 .hero-byline {
   font-size: 0.3em;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+}
+
+.navbar-text {
+  align: center;
 }
 
 p {
@@ -13,7 +24,8 @@ p {
 .chapter-headline {
   font-size: 2em;
   font-weight: 600;
-  font-family: 'Montserrat', sans-serif;;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
 }
 
 .hero-container {
@@ -51,7 +63,7 @@ figcaption {
   margin-left: auto;
   margin-right: auto;
   color: gray;
-  width: 210;
+  padding-right: 15px;
 }
 
 blockquote {
@@ -76,6 +88,7 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
 
 .card-footer {
   width: 100%;
