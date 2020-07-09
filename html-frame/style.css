@@ -1,3 +1,22 @@
+
+.nav-logo {
+  color: white;
+  margin: 0 auto;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.hero-byline {
+  font-size: 0.3em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.navbar-text {
+  align: center;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media(min-width:768px) {
   padding-left: 20px;
@@ -18,25 +37,6 @@
 @media (min-width:1200px) {
   padding-left: 20px;
   padding-right: 10px;
-}
-
-
-.nav-logo {
-  color: white;
-  margin: 0 auto;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-.hero-byline {
-  font-size: 0.3em;
-  text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-}
-
-.navbar-text {
-  align: center;
 }
 
 p {
