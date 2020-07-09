@@ -1,11 +1,19 @@
 /* Small devices (tablets, 768px and up) */
-@media (min-width:768px; @screen-sm-min) { ... }
+@media (min-width:768px) {
+  padding-left: 20px;
+  padding-right: 10px;
+}
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width:992px; @screen-md-min) { ... }
+@media (min-width:992px) {
+  padding-left: 20px;
+  padding-right: 10px;}
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width:1200px; @screen-lg-min) { ... }
+@media (min-width:1200px) {
+  padding-left: 20px;
+  padding-right: 10px;
+}
 
 
 .nav-logo {
